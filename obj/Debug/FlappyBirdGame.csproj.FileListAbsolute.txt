@@ -1,0 +1,105 @@
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Form1.resources
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+c:\users\panasonic\documents\visual studio 2013\Projects\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Form1.resources
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+I:\C#\mine\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Form1.resources
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+D:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Form1.resources
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+C:\Users\Koto_vi65\Desktop\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\obj\Debug\FlappyBirdGame.Form1.resources
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+D:\Valentin\C#\games\FlappyBirdGame123\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Form1.resources
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+E:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+G:\C#\games\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+G:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+G:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+F:\C#\games\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+F:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+F:\C#\games\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Game.resources
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\obj\Debug\FlappyBirdGame.Game.resources
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameBeta V1.0\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.Game.resources
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+D:\Valentin\C#\games\FlappyBirdGameReleaseVersion\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.Game.resources
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+I:\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.csprojResolveAssemblyReference.cache
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.Game.resources
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+D:\Шаг\Пары с Загаруйко\Game  console\FlappyBirdGameReleaseVersion\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.Cache
